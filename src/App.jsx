@@ -1,3 +1,4 @@
+import Chai from "./hlo";
 
 
 function App() {
@@ -6,7 +7,7 @@ function App() {
   return (
   
     
-     <h1>heloooo guyzzzzzzz with vite</h1>
+    <Chai />
   )
 }
 
